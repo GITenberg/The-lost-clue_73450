@@ -1,0 +1,44 @@
+_repo: The-lost-clue_73450
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Thiede, Adolf
+    gutenberg_agent_id: '41319'
+    url: http://www.gutenberg.org/2009/agents/41319
+creator:
+  author:
+    agent_name: Walton, O. F., Mrs.
+    aliases:
+    - Walton, Amy Catherine
+    - Deck, Amy Catherine
+    - Walton, Mrs O. F.
+    - Walton, Octavius Frank, Mrs.
+    - Walton, Mrs. O. F.
+    birthdate: 1849
+    deathdate: 1939
+    gutenberg_agent_id: '2468'
+    url: http://www.gutenberg.org/2009/agents/2468
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Catherine_Walton
+description: ''
+gutenberg_issued: '2024-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73450'
+language: en
+pgterms:marc905: 20240419145915walton
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PR'
+- GITenberg
+title: The lost clue
+url: http://www.gutenberg.org/ebooks/73450
